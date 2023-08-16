@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/EkaKMV" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
